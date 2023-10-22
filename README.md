@@ -1,2 +1,2 @@
 # Hackerrank_Practice_Programs
-C programs
+MITE_DLithe Practice Programs in C
